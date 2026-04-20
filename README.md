@@ -1,5 +1,4 @@
 # BlackboxTesting
-# Black Box Testing
 
 ## Nội dung
 
